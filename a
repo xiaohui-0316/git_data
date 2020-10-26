@@ -2,4 +2,8 @@ aaa
 ccc
 bbb
 ccc
+<<<<<<< HEAD
 master
+=======
+testing
+>>>>>>> testing
